@@ -1,4 +1,4 @@
-This code provides the implementation of the forearm_NIR datset.
+This code provides the implementation of the forearmNIR datset.
 
 Tihs data set was a quired at UNCC by Michael Nugent and Matthew Sanchez.
 
